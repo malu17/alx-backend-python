@@ -17,3 +17,4 @@ async def task_wait_n(n: int, max_delay: int) -> List[float]:
         earliest_result = await delay
         all_delays.append(earliest_result)
     return all_delays
+.
