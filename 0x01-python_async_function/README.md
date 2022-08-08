@@ -26,8 +26,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 0. The basics of async
 * [x] 1. Let's execute multiple coroutines at the same time with async
 * [x] 2. Measure the runtime
-* [x] 3. Tasks
-* [x] 4. Tasks
+* [x] 3. Import wait_random from 0-basic_async_syntax.
+* [x] 4. Take the code from wait_n and alter it into a new function task_wait_n. The code is nearly identical to wait_n     
+          except task_wait_random is being called.
+
 
 # Software engineer
 ## :enter_belu: 
