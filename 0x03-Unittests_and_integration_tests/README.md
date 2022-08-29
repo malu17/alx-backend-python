@@ -1,7 +1,7 @@
-# 0x09. Unittests and Integration Tests
+# 0x03. Unittests and Integration Tests
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:bust_in_silhouette: by elias fiseha Software Engineer
+:copyright: **[alx School](https://www.alx.com/)**  
 :bookmark: fixtures | integration tests | memoization | mocking | parameterization | python | unit tests
 
 ## Resources
