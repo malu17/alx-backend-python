@@ -1,5 +1,5 @@
 # 0x03. Unittests and Integration Tests
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
+:open_file_folder: Specializations - alx-backend-python
 :bust_in_silhouette: by elias fiseha Software Engineer
 :copyright: **[alx School](https://www.alx.com/)**  
 :bookmark: fixtures | integration tests | memoization | mocking | parameterization | python | unit tests
