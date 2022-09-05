@@ -1,5 +1,5 @@
 # 0x01. Python - Async
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
+:open_file_folder: Specializations - alx-backend-python
 :bust_in_silhouette: by elias fiseha, 
 :copyright: **[alx School](https://wwww.alx.com/)**  
 :bookmark: async | python | python3 async
