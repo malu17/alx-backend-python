@@ -1,5 +1,5 @@
 # 0x00. Python - Variable Annotations
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
+:open_file_folder: Specializations - alx-backend-python
 :bust_in_silhouette: by elias fiseha cpyright: **[alx School](https://www.alx.com/)** 
 
 -   [Advanced Python](https://alx-intranet.hbtn.io/concepts/554)
